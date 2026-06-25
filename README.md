@@ -130,17 +130,8 @@ Estrutura esperada:
 ```bash
 results/
 └── graficos.png
+```
 
----
-
-## Tecnologias
-
-* **R**
-* Funções básicas de visualização (`plot`)
-* Implementação manual do algoritmo PSO
-
----
-
-## Autoria
+### Autoria
 
 Projeto desenvolvido por **Wanessa Helena**.
