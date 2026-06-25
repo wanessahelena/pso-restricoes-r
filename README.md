@@ -97,7 +97,7 @@ Ao final da execução, o script retorna:
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/pso-restricoes-r.git
+git clone https://github.com/wanessahelena/pso-restricoes-r.git
 ```
 
 3. Abra o arquivo:
