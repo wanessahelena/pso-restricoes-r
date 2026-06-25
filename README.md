@@ -1,4 +1,4 @@
-#  Otimização por enxame de partículas em R (Particle Swarm Optimization for Constrained Optimization - PSO)
+#  Otimização por enxame de partículas (Particle Swarm Optimization for Constrained Optimization - PSO)
 
 Este repositório apresenta uma implementação do algoritmo de otimização por enxame de partículas (PSO) em R, aplicada a um problema de otimização com restrições representadas por funções de penalidade.
 
@@ -6,7 +6,7 @@ O projeto foi desenvolvido como trabalho da disciplina de Inteligência Artifici
 
 ---
 
-## Objective
+## Objetivo
 
 Implementar o algoritmo **PSO (Particle Swarm Optimization)** para minimizar uma função de fitness composta por penalizações associadas a restrições do problema.
 
